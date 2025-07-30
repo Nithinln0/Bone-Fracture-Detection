@@ -26,30 +26,10 @@ This algorithm has the potential to greatly aid medical professionals in detecti
 
 
 
-![img_1.png](images/Architecture.png)
 
 
-## Results
-### Body Part Prediction
-
-<img src="plots/BodyPartAcc.png" width=300> <img src="plots/BodyPartLoss.png" width=300>
-
-### Fracture Prediction
-#### Elbow
-
-<img src="plots/FractureDetection/Elbow/_Accuracy.jpeg" width=300> <img src="plots/FractureDetection/Elbow/_Loss.jpeg" width=300>
-
-#### Hand
-<img src="plots/FractureDetection/Hand/_Accuracy.jpeg" width=300> <img src="plots/FractureDetection/Hand/_Loss.jpeg" width=300>
-
-#### Shoulder
-<img src="plots/FractureDetection/Shoulder/_Accuracy.jpeg" width=300> <img src="plots/FractureDetection/Shoulder/_Loss.jpeg" width=300>
 
 
-# Installations
-### PyCharm IDE
-### Python v3.7.x
-### Install requirements.txt
 
 * customtkinter~=5.0.3
 * PyAutoGUI~=0.9.53
@@ -65,15 +45,6 @@ This algorithm has the potential to greatly aid medical professionals in detecti
 
 Run mainGUI.Py
 
-# GUI
-### Main
-<img src="images/GUI/main.png" width=400>
-
-### Info-Rules
-<img src="images/GUI/Rules.png" width=400>
-
-### Test Normal & Fractured
-<img src="images/GUI/normal.png" width=300> <img src="images/GUI/fractured.png" width=300>
 
 
 
